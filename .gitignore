@@ -1,8 +1,24 @@
-# Ignores files of varying extensions
-*.dmg
-*.gz
-*.iso
+#class file
+*.class
+
+#BlueJ file
+*.ctxt
+
+#Log file
+*.Log
+
+#Mobile tools
+.mtj.tmp/
+
+#Package Files
 *.jar
-*.rar
-*.tar
+*.war
+*.nar
+*.ear
 *.zip
+*.tar.gz
+*.rar
+
+#Data set files
+*.csv
+
