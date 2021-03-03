@@ -27,16 +27,8 @@ public class Controller {
 
     public void initialize(){
         gc = mainCanvas.getGraphicsContext2D();
-//        double[] data = {1,2,3,4,5,6,7,8};
-//        double[] data2 = {0,1,2,3,4,5,6,7};
-
-//        drawGraph(100,300,avgHousingPricesByYear,Color.RED,0);
-//        drawGraph(100,300,avgCommercialPricesByYear,Color.BLUE,100/avgCommercialPricesByYear.length);
-
         drawLabGraph(100,300,avgHousingPricesByYear,avgCommercialPricesByYear,Color.RED,Color.BLUE);
         gc.setFill(Color.INDIANRED);
-//        gc.fillArc(100,100,150,150,0,90, ArcType.ROUND);
-
         drawwingPie(200,150,purchasesByAgeGroup,pieColours);
     }
     public void drawwingPie(int w, int h, int[] values,Color[] colours){
@@ -81,8 +73,6 @@ public class Controller {
                 minVal = val;
             }
         }
-//        System.out.println(maxVal);
-//        System.out.println(minVal);
         double x = 0;
         for(double val: data1){
             double height = ((val-minVal) / (maxVal - minVal)) * h;
@@ -114,8 +104,6 @@ public class Controller {
                 minVal = val;
             }
         }
-//        System.out.println(maxVal);
-//        System.out.println(minVal);
         double x = startX;
         for(double val: data){
             double height = ((val-minVal) / (maxVal - minVal)) * h;
