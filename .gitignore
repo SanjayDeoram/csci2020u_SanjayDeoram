@@ -22,3 +22,12 @@
 #Data set files
 *.csv
 
+build/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+
+*.csv
+
+out \
