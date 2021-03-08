@@ -4,6 +4,9 @@
 
 Spam Detector will detect your spam!
 
+![Login Screen](LoginScreen.png)
+![Spam Detector](Spam.png)
+
 ## Features
 
 - Import a training folder to train the Spam Detector
