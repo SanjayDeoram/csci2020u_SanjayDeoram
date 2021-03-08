@@ -16,13 +16,15 @@ Spam Detector will detect your spam!
 Spam Detector is a program that uses datasets of E-Mails to train the program to recognize whether or not new E-Mails are spam. The basis of this training and testing model is using [Naive Bayes spam filtering] and [Bag-of-words model] techniques.
 
 ## Improvements
-Using more E-Mail datasets containing spam can improve the machine learning process of the program. This will imrpove the precision and accuracy of the model.
+Using more E-Mail datasets containing spam can improve the machine learning process of the program. This will imrpove the precision and accuracy of the model. merging Ham 2 from train/ham2 will increase the accuracy and precision of the spam detection as well.
+
+## Modifications
+Changed the TestFile constructor and added getters and setters for those new variables. Added a login UI with CSS to improve aesthetics. 
 
 ## Steps to clone application
 
-1. Contained in one folder using the ==trainFile== program
-2. Have a training dataset of ham and spam in the same directory as ==trainFile==
-3. This will create a probability output map that will be used for testing
+1. Add train directory to Assignment_Javafx/src/sample/ containg ham and spam.
+2. Using TrainingFile.java it will train the program for spam detection and will output the trainHamFreq and trainSpam freq, as well as the probabilities for use of the testing.
 
 ### Training
 
@@ -39,7 +41,7 @@ java testFile <PrSW_i.txt> <test/ham> <test/spam>
 ```
 
 3. Test a new dataset of E-Mails spam and ham using our training model before, that is the probability map
-4. Run JavaFX and boom
+4. You can either run TestFile.java to find the probabilties that a file is spam as a txt output or run it with JavaFX, for the UI table.
 
 
 
