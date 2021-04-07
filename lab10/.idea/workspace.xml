@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67d47003-5bb2-42d0-897c-e2f9b438b2dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qqWEBF94XrnZH1z2ehCncJyjnV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d47003-5bb2-42d0-897c-e2f9b438b2dc" name="Default Changelist" comment="" />
+      <created>1617807486838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617807486838</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617807838004">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="196" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807838004" />
+    <state x="689" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617807837166">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="325" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807837166" />
+    <state x="808" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1617807521522">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="808" y="430" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807521522" />
+    <state x="540" y="196" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1617807519445">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="196" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807519445" />
+    <state x="461" y="183" key="SettingsEditor" timestamp="1617807785032">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="183" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807785032" />
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog" timestamp="1617807745531">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="365" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1617807745531" />
+  </component>
+</project>
